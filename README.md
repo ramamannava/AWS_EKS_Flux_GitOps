@@ -14,7 +14,7 @@ $env:TMP = "flux-system"
 
 4. Install Flux on EKS
 flux bootstrap github `
-  --owner="RekhuGopal" `
+  --owner="ramamannava" `
   --repository=AWS_EKS_Flux_GitOps `
   --branch=main `
   --path=".\apps" `
